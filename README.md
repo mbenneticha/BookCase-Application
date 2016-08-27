@@ -5,7 +5,7 @@ Vision:
 •Provides individuals with a method to keep track of books (or other written materials) they have read.  
 •Also provides users with social aspect of sharing books, etc. with other readers or viewing what other users have read recently.  
 •Maintains anonymity of users through the use of a username.  
--- See ProjjectBookCase_Ben-Neticha.pdf or Project Outline for more details --
+-- See ProjjectBookCase_Ben-Neticha.pdf or Project Proposal for more details --
 
 Coded using:  
 •HTML/CSS/Bootstrap  
