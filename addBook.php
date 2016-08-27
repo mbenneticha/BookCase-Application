@@ -2,7 +2,7 @@
 //Turn on error reporting
 ini_set('display_errors', 'On');
 //Connects to database
-$mysqli = new mysqli("oniddb.cws.oregonstate.edu","bennemar-db", "yA5TEFEdN2cg9bes", "bennemar-db");
+$mysqli = new mysqli("database","username", "password", "databasename");
 if($mysqli->connect_errno){
   echo "Connection error " . $mysqli->connect_errno . " " . $mysqli->connect_error;
 }
