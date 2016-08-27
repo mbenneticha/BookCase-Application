@@ -1,0 +1,35 @@
+.body{
+	background-color: #33CC00;
+}
+
+.page-header{
+	margin-left: 20px;
+	background-color: #CCFF99;
+	border-radius: 7px;
+}
+
+#titler{
+	color: #0066FF;
+	margin-left: 10px;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 300%;
+}
+
+#sub{
+	color: #0066FF;
+	opacity: 0.5;
+}
+
+#well{
+	background-color: #CCFF99;
+}
+
+#collapsebtn{
+	 background-color: #0066FF;
+}
+
+#brand{
+	color: #0066FF;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 120%;
+}
