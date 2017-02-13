@@ -1,4 +1,4 @@
-# BookCase-Application
+# BookCase Library Database Application, 2016
 A Social Book-Tracking Application
 
 ## Vision:  
@@ -8,7 +8,13 @@ A Social Book-Tracking Application
 
 [See ProjectBookCase_Ben-Neticha.pdf or Project Proposal for more details]
 
-## Coded using:  
+## Program Info
+- Enables a system for users to keep track of content they own or have read.
+- Front-end programmed using HTML/CSS and Bootstrap for layout and styling
+- Database programmed using PHP and MySQL to set up and update database.
+- Time-Restriction: 14 days
+
+## Language Use:  
 •HTML/CSS/Bootstrap  
 •Node.js / Handlebars.js  
 •PHP/MySQL
